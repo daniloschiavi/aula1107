@@ -8,4 +8,4 @@ else
     puts 'Boa noite!'
 end
 
-puts hora.strftime("%H")
+
