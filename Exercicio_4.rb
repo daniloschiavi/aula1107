@@ -1,4 +1,5 @@
 hora = Time.now
+#time.now.hour para ver a hora atual da máquina.
 
 if hora.strftime("%H").to_i < 12
     puts 'Bom dia!'

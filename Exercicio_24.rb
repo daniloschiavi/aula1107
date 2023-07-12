@@ -16,4 +16,6 @@ when 7
     puts 'Sábado.'
 when 1
     puts 'Domingo.'
+else 
+    puts 'Valor inválido.'
 end

@@ -1,7 +1,7 @@
 puts 'Digite um numero'
 num = gets.chomp.to_i
 
-if num >=0 && num % 2 ==0
+if num >=0 && num % 2 == 0 #even? impar
     puts 'É par e positivo'
 else
     puts 'Não é par ou positivo'
